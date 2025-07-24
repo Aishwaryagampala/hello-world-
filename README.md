@@ -2,6 +2,7 @@
 
 hello world
 
-some description 
+omit
+
 
 lets see commit
